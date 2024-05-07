@@ -1,4 +1,5 @@
 ﻿Flight Booking System
+ 
 Overview
 The Flight Booking System is a Java-based application that simulates the process of booking flights. This system comprises several classes that represent flights, passengers, tickets, and a manager class to handle operations related to flight bookings.
 
